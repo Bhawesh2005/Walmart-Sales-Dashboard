@@ -18,10 +18,10 @@ The objective is to develop a comprehensive and interactive sales dashboard usin
 - Step 6 : In the report view, under the view tab, theme was selected.
 - Step 7 : Since the data contains various regions, thus in order to represent regions, a new visual was added using the three ellipses in the visualizations pane in report view. 
 - Step 8 : Visual filters (Slicers) were added for four fields named Central", "East", "West" & "South".
-- ![Screenshot 2024-08-04 151423](https://github.com/user-attachments/assets/ad68a88e-1cef-410c-b8fa-6492e12ec479)
-- ![Screenshot 2024-08-04 151440](https://github.com/user-attachments/assets/0cd1a6e7-0f7e-453e-8a32-959231cb5caf)
-- ![Screenshot 2024-08-04 151505](https://github.com/user-attachments/assets/b3a0ca91-05ee-404d-a271-3c940e1fa8d8)
-- ![Screenshot 2024-08-04 151519](https://github.com/user-attachments/assets/11d5563e-8519-40d3-af9e-4deed7022400)
+[- ![Screenshot 2024-08-04 151423](https://github.com/user-attachments/assets/ad68a88e-1cef-410c-b8fa-6492e12ec479)](https://github.com/Bhawesh2005/Walmart-Sales-Dashboard/blob/main/Screenshot%202024-08-04%20151423.png)
+[- ![Screenshot 2024-08-04 151440](https://github.com/user-attachments/assets/0cd1a6e7-0f7e-453e-8a32-959231cb5caf)](https://github.com/Bhawesh2005/Walmart-Sales-Dashboard/blob/45af9868b30a632928b6dc3a74123913c025cc4c/Screenshot%202024-08-04%20151440.png)
+[- ![Screenshot 2024-08-04 151505](https://github.com/user-attachments/assets/b3a0ca91-05ee-404d-a271-3c940e1fa8d8)](https://github.com/Bhawesh2005/Walmart-Sales-Dashboard/blob/45af9868b30a632928b6dc3a74123913c025cc4c/Screenshot%202024-08-04%20151452.png)
+[- ![Screenshot 2024-08-04 151519](https://github.com/user-attachments/assets/11d5563e-8519-40d3-af9e-4deed7022400)](https://github.com/Bhawesh2005/Walmart-Sales-Dashboard/blob/45af9868b30a632928b6dc3a74123913c025cc4c/Screenshot%202024-08-04%20151519.png)
 - Step 9 : Two card visuals were added to the canvas, one representing average sales  & other representing average profit.
            Using visual level filter from the filters pane, basic filtering was used & null values were unselected for consideration into average calculation.
            
